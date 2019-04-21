@@ -1,0 +1,14 @@
+ Hostname FTP
+	
+
+: desabambangan.co.id
+
+Username FTP
+	
+
+: u5347697
+
+Password FTP
+	
+
+: pV8rI-qSGn 

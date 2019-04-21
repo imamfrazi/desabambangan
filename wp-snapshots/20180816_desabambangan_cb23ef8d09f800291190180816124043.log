@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: August 16, 2018 12:41 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.8
+PHP INFO:	5.5.19 | SAPI: apache2handler
+SERVER:		Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.19 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 30MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from C:/xampp/mysql/bin/mysqldump.exe 
+TABLES: total:15 | filtered:0 | create:15 
+SQL CREATED: 20180816_desabambangan_cb23ef8d09f800291190180816124043_database.sql 
+SQL FILE SIZE: 513.31KB (525632) 
+SQL FILE TIME: 2018-08-16 12:41:11 
+SQL RUNTIME: 4.65 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/desabambangan 
+ARCHIVE FILE: 20180816_desabambangan_cb23ef8d09f800291190180816124043_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	90.48MB 
+STATS:	Dirs 659 | Files 4,675 
+SQL ADDED: 20180816_desabambangan_cb23ef8d09f800291190180816124043_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5334
+    [filename] => C:\xampp\htdocs\desabambangan\wp-snapshots\tmp\20180816_desabambangan_cb23ef8d09f800291190180816124043_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 46.58MB 
+ARCHIVE RUNTIME: 60.00 sec. 
+MEMORY STACK: 31.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/xampp/htdocs/desabambangan/wp-snapshots/tmp/20180816_desabambangan_cb23ef8d09f800291190180816124043_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 513.31KB 
+Installer File: 445.9KB 
+Archive File: 46.58MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 66.51 sec.
+PEAK PHP MEMORY USED: 34.25MB
+DONE PROCESSING => 20180816_desabambangan August 16, 2018 12:42 pm
+ 
